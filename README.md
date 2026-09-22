@@ -5,7 +5,7 @@ This system plays VGM files using the YM2608B sound chip. It is particularly wel
 
 Please watch the video for details: https://youtu.be/8tprrlNsprk
 
-<img src="PCB5.png" alt="PCB image" width="500">
+<img src="PCB7.png" alt="PCB image" width="500">
 
 # License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
